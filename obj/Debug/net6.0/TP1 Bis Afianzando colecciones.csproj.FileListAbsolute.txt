@@ -1,0 +1,15 @@
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\bin\Debug\net6.0\TP1 Bis Afianzando colecciones.exe
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\bin\Debug\net6.0\TP1 Bis Afianzando colecciones.deps.json
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\bin\Debug\net6.0\TP1 Bis Afianzando colecciones.runtimeconfig.json
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\bin\Debug\net6.0\TP1 Bis Afianzando colecciones.dll
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\bin\Debug\net6.0\TP1 Bis Afianzando colecciones.pdb
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.csproj.AssemblyReference.cache
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.AssemblyInfoInputs.cache
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.AssemblyInfo.cs
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.csproj.CoreCompileInputs.cache
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.dll
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\refint\TP1 Bis Afianzando colecciones.dll
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.pdb
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\TP1 Bis Afianzando colecciones.genruntimeconfig.cache
+Z:\PROG\2023\TP1 Bis Afianzando colecciones\obj\Debug\net6.0\ref\TP1 Bis Afianzando colecciones.dll
