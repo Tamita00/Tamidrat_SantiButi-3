@@ -18,7 +18,8 @@ while(seleccion != 0){
 static string IngresarString(string msg)
 {
 	Console.WriteLine(msg);
-	return Console.ReadLine();
+	//hola
+    return Console.ReadLine();
 }
 static int IngresarInt(string msg)
 {
